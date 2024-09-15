@@ -1,0 +1,12 @@
+asciimatics==1.15.0
+colorama==0.4.6
+exceptiongroup==1.2.2
+iniconfig==2.0.0
+packaging==24.1
+pillow==10.4.0
+pluggy==1.5.0
+pyfiglet==1.0.2
+pytest==8.3.3
+pywin32==306
+tomli==2.0.1
+wcwidth==0.2.13
